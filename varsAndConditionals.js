@@ -75,3 +75,5 @@ while(pikachuHealth > 0){
         console.log('Pikachu has fainted.')
     }
 }
+
+console.log("Thanks for playing!")
